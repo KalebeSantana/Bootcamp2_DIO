@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoHoHo", "HoHoHo\HoHoHo.csproj", "{F464C988-7882-4D8B-B913-8DB6845A1CC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pneu", "Pneu\Pneu.csproj", "{2ACD2D96-870F-4E42-BA0A-443ACC1F56E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quadrante", "Quadrante\Quadrante.csproj", "{0644272E-B13D-46AE-8F8A-24AEB85A404E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F464C988-7882-4D8B-B913-8DB6845A1CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F464C988-7882-4D8B-B913-8DB6845A1CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F464C988-7882-4D8B-B913-8DB6845A1CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F464C988-7882-4D8B-B913-8DB6845A1CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ACD2D96-870F-4E42-BA0A-443ACC1F56E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ACD2D96-870F-4E42-BA0A-443ACC1F56E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ACD2D96-870F-4E42-BA0A-443ACC1F56E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ACD2D96-870F-4E42-BA0A-443ACC1F56E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0644272E-B13D-46AE-8F8A-24AEB85A404E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0644272E-B13D-46AE-8F8A-24AEB85A404E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0644272E-B13D-46AE-8F8A-24AEB85A404E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0644272E-B13D-46AE-8F8A-24AEB85A404E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00FD5449-8C4F-4B3C-84BA-7A3F673B1A75}
+	EndGlobalSection
+EndGlobal
