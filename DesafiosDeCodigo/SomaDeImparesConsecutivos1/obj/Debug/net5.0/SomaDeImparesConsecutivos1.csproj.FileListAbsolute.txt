@@ -1,0 +1,15 @@
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\DesafiosDeCodigo\SomaDeImparesConsecutivos1\bin\Debug\net5.0\SomaDeImparesConsecutivos1.exe
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\DesafiosDeCodigo\SomaDeImparesConsecutivos1\bin\Debug\net5.0\SomaDeImparesConsecutivos1.deps.json
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\DesafiosDeCodigo\SomaDeImparesConsecutivos1\bin\Debug\net5.0\SomaDeImparesConsecutivos1.runtimeconfig.json
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\DesafiosDeCodigo\SomaDeImparesConsecutivos1\bin\Debug\net5.0\SomaDeImparesConsecutivos1.runtimeconfig.dev.json
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\DesafiosDeCodigo\SomaDeImparesConsecutivos1\bin\Debug\net5.0\SomaDeImparesConsecutivos1.dll
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\DesafiosDeCodigo\SomaDeImparesConsecutivos1\bin\Debug\net5.0\ref\SomaDeImparesConsecutivos1.dll
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\DesafiosDeCodigo\SomaDeImparesConsecutivos1\bin\Debug\net5.0\SomaDeImparesConsecutivos1.pdb
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\DesafiosDeCodigo\SomaDeImparesConsecutivos1\obj\Debug\net5.0\SomaDeImparesConsecutivos1.GeneratedMSBuildEditorConfig.editorconfig
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\DesafiosDeCodigo\SomaDeImparesConsecutivos1\obj\Debug\net5.0\SomaDeImparesConsecutivos1.AssemblyInfoInputs.cache
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\DesafiosDeCodigo\SomaDeImparesConsecutivos1\obj\Debug\net5.0\SomaDeImparesConsecutivos1.AssemblyInfo.cs
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\DesafiosDeCodigo\SomaDeImparesConsecutivos1\obj\Debug\net5.0\SomaDeImparesConsecutivos1.csproj.CoreCompileInputs.cache
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\DesafiosDeCodigo\SomaDeImparesConsecutivos1\obj\Debug\net5.0\SomaDeImparesConsecutivos1.dll
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\DesafiosDeCodigo\SomaDeImparesConsecutivos1\obj\Debug\net5.0\ref\SomaDeImparesConsecutivos1.dll
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\DesafiosDeCodigo\SomaDeImparesConsecutivos1\obj\Debug\net5.0\SomaDeImparesConsecutivos1.pdb
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\DesafiosDeCodigo\SomaDeImparesConsecutivos1\obj\Debug\net5.0\SomaDeImparesConsecutivos1.genruntimeconfig.cache

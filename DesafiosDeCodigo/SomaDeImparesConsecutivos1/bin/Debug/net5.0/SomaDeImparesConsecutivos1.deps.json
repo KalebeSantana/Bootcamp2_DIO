@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SomaDeImparesConsecutivos1/1.0.0": {
+        "runtime": {
+          "SomaDeImparesConsecutivos1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SomaDeImparesConsecutivos1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\DesafiosDeCodigo\GuilhermeESuasPipas\bin\Debug\net5.0\GuilhermeESuasPipas.exe
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\DesafiosDeCodigo\GuilhermeESuasPipas\bin\Debug\net5.0\GuilhermeESuasPipas.deps.json
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\DesafiosDeCodigo\GuilhermeESuasPipas\bin\Debug\net5.0\GuilhermeESuasPipas.runtimeconfig.json
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\DesafiosDeCodigo\GuilhermeESuasPipas\bin\Debug\net5.0\GuilhermeESuasPipas.runtimeconfig.dev.json
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\DesafiosDeCodigo\GuilhermeESuasPipas\bin\Debug\net5.0\GuilhermeESuasPipas.dll
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\DesafiosDeCodigo\GuilhermeESuasPipas\bin\Debug\net5.0\ref\GuilhermeESuasPipas.dll
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\DesafiosDeCodigo\GuilhermeESuasPipas\bin\Debug\net5.0\GuilhermeESuasPipas.pdb
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\DesafiosDeCodigo\GuilhermeESuasPipas\obj\Debug\net5.0\GuilhermeESuasPipas.GeneratedMSBuildEditorConfig.editorconfig
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\DesafiosDeCodigo\GuilhermeESuasPipas\obj\Debug\net5.0\GuilhermeESuasPipas.AssemblyInfoInputs.cache
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\DesafiosDeCodigo\GuilhermeESuasPipas\obj\Debug\net5.0\GuilhermeESuasPipas.AssemblyInfo.cs
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\DesafiosDeCodigo\GuilhermeESuasPipas\obj\Debug\net5.0\GuilhermeESuasPipas.csproj.CoreCompileInputs.cache
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\DesafiosDeCodigo\GuilhermeESuasPipas\obj\Debug\net5.0\GuilhermeESuasPipas.dll
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\DesafiosDeCodigo\GuilhermeESuasPipas\obj\Debug\net5.0\ref\GuilhermeESuasPipas.dll
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\DesafiosDeCodigo\GuilhermeESuasPipas\obj\Debug\net5.0\GuilhermeESuasPipas.pdb
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\DesafiosDeCodigo\GuilhermeESuasPipas\obj\Debug\net5.0\GuilhermeESuasPipas.genruntimeconfig.cache
