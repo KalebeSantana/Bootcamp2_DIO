@@ -14,3 +14,7 @@ Eliézer Zarpelão](https://www.linkedin.com/in/eliezerzarpelao/).
 
 ## Mentoria 02: Abstraindo os paradigmas da programação orientada a objetos na prática
 DESCRIÇÃO: Entenda os conceitos da programação orientada a objetos com o objetivo de melhorar a reutilização e manutenção do seu código junto à linguagem C#. Mentoria ministrada pelo profissional [Paulo Ricardo da Silva](https://www.linkedin.com/in/paulo-ricardo-da-silva-654a2944/).
+
+[⏩**PROJETO**⏪](https://github.com/KalebeSantana/NewTalents-3.NET/tree/main/EverisStore)
+
+
