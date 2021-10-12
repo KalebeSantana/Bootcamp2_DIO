@@ -1,0 +1,12 @@
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\EverisStore\EverisStore.Domain\bin\Debug\net5.0\EverisStore.Domain.deps.json
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\EverisStore\EverisStore.Domain\bin\Debug\net5.0\EverisStore.Domain.dll
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\EverisStore\EverisStore.Domain\bin\Debug\net5.0\ref\EverisStore.Domain.dll
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\EverisStore\EverisStore.Domain\bin\Debug\net5.0\EverisStore.Domain.pdb
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\EverisStore\EverisStore.Domain\obj\Debug\net5.0\EverisStore.Domain.csproj.AssemblyReference.cache
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\EverisStore\EverisStore.Domain\obj\Debug\net5.0\EverisStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\EverisStore\EverisStore.Domain\obj\Debug\net5.0\EverisStore.Domain.AssemblyInfoInputs.cache
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\EverisStore\EverisStore.Domain\obj\Debug\net5.0\EverisStore.Domain.AssemblyInfo.cs
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\EverisStore\EverisStore.Domain\obj\Debug\net5.0\EverisStore.Domain.csproj.CoreCompileInputs.cache
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\EverisStore\EverisStore.Domain\obj\Debug\net5.0\EverisStore.Domain.dll
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\EverisStore\EverisStore.Domain\obj\Debug\net5.0\ref\EverisStore.Domain.dll
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\EverisStore\EverisStore.Domain\obj\Debug\net5.0\EverisStore.Domain.pdb

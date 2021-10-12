@@ -1,0 +1,5 @@
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\EverisStore\EverisStore.Aplication\obj\Debug\net5.0\EverisStore.Aplication.csproj.AssemblyReference.cache
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\EverisStore\EverisStore.Aplication\obj\Debug\net5.0\EverisStore.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\EverisStore\EverisStore.Aplication\obj\Debug\net5.0\EverisStore.Aplication.AssemblyInfoInputs.cache
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\EverisStore\EverisStore.Aplication\obj\Debug\net5.0\EverisStore.Aplication.AssemblyInfo.cs
+D:\wce_github\wce_projetosc#\NewTalents-3.NET\EverisStore\EverisStore.Aplication\obj\Debug\net5.0\EverisStore.Aplication.csproj.CoreCompileInputs.cache
