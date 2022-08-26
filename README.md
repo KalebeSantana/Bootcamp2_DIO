@@ -1,8 +1,3 @@
-<div  style="display: inline_block"><br>
-  <img align="center" eight="200" width="200"  src="https://user-images.githubusercontent.com/71510774/136876811-9b867092-eacc-4650-96f0-3dd4b251233f.png" />
- </div>
-
-
 ## 1️⃣ Resolvendo desafios iniciais em C#
 
 | 📌**Nível** | 📌 **Nome** | 
